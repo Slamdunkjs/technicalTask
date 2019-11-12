@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+* {
+  font-family: Roboto, sans-serif;
+}
+
+.firstTextHeader, .secondTextHeader{
+  font-size: 56px;
+  line-height: 65px;
+}
+
+.mainTextFooter{
+  font-size: 36px;
+  line-height: 38px;
+}
+
+.secondTextFooter{
+  font-size: 24px;
+  line-height: 26px;
+}
+
+.left p, .right p{
+  font-size: 24px;
+  line-height: 26px;
+}
+
+.left span, .right span{
+  font-size: 20px;
+  line-height: 22px;
+}
+
+.whiteIcon {
+  font-size: 40px;
+}
+
+.dollar{
+  font-size: 24px;
+}
+
+@media (max-width: 1372px){
+  .firstTextHeader, .secondTextHeader{
+    font-size: 50px;
+    line-height: 60px;
+  }
+  
+  .mainTextFooter{
+    font-size: 30px;
+    line-height: 36px;
+  }
+  
+  .secondTextFooter{
+    font-size: 20px;
+    line-height: 24px;
+  }
+  
+  .left p, .right p{
+    font-size: 20px;
+    line-height: 24px;
+  }
+  
+  .left span, .right span{
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .whiteIcon {
+    font-size: 38px;
+  }
+  
+  .dollar{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1193px){
+  .firstTextHeader, .secondTextHeader{
+    font-size: 44px;
+    line-height: 53px;
+  }
+  
+  .mainTextFooter{
+    font-size: 26px;
+    line-height: 31px;
+  }
+  
+  .secondTextFooter{
+    font-size: 18px;
+    line-height: 21px;
+  }
+  
+  .left p, .right p{
+    font-size: 18px;
+    line-height: 21px;
+  }
+  
+  .whiteIcon {
+    font-size: 36px;
+  }
+  
+  .dollar{
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 1144px){
+  .whiteIcon {
+    font-size: 30px;
+  }
+  
+  .dollar{
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 916px){
+  .firstTextHeader, .secondTextHeader{
+    font-size: 40px;
+    line-height: 48px;
+  }
+}
+
+@media (max-width: 778px){
+  .firstTextHeader, .secondTextHeader{
+    font-size: 40px;
+    line-height: 48px;
+  }
+  
+  .mainTextFooter{
+    font-size: 24px;
+    line-height: 29px;
+  }
+  
+  .secondTextFooter{
+    font-size: 18px;
+    line-height: 22px;
+  }
+  
+  .left p, .right p{
+    font-size: 18px;
+    line-height: 22px;
+  }
+  
+  .left span, .right span{
+    font-size: 14px;
+    line-height: 17px;
+  }
+  
+  .whiteIcon {
+    font-size: 20px;
+  }
+  
+  .dollar{
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 675px){
+  .secondTextFooter{
+    font-size: 15px;
+    line-height: 18px;
+  }
+}
+
+@media (max-width: 523px){
+  .firstTextHeader, .secondTextHeader{
+    font-size: 30px;
+    line-height: 36px;
+  }
+  
+  .mainTextFooter{
+    font-size: 20px;
+    line-height: 24px;
+  }
+  
+  .secondTextFooter{
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .left p, .right p{
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .left span, .right span{
+    font-size: 12px;
+    line-height: 14px;
+  }
+  
+  .whiteIcon {
+    font-size: 20px;
+  }
+  
+  .dollar{
+    font-size: 15px;
+  }
+
+}
+
+@media (max-width: 401px){
+  .firstTextHeader, .secondTextHeader{
+    font-size: 25px;
+    line-height: 30px;
+  }
+  
+  .mainTextFooter{
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .left p, .right p{
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
